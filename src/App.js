@@ -1,11 +1,8 @@
 import "./App.css";
+import Hero from "./components/Hero";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>yupp</h1>
-    </div>
-  );
+  return <Hero />;
 }
 
 export default App;
